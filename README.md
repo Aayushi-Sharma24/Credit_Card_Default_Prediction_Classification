@@ -33,12 +33,12 @@ The dataset contains features like:
 * Model Selection
 
 ## Models Used:
-1. Logistic Regression
-2. Random Forest Classifier
-3. XGBoost Classifier
-4. SVC
+* Logistic Regression
+* Random Forest Classifier
+* XGBoost Classifier
+* SVC
 
 ## Conclusion
 We have built predictive model for credit card agency to predict if a person would default on his/her payment of credit card.
 We have performed feature engineering, feature selection, hyperparameter tuning to prevent overfitting and decrease error rate in the model.
-Since the business nature of credit card default prediction requires model to have a high recall. Therefore, we selected XGBoost Classifier as our best model.
+Since the business nature of credit card default prediction requires model to have a high recall, therefore, we selected XGBoost Classifier as our best model.
